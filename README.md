@@ -47,8 +47,8 @@
   </div>
 <br><br><br><br><br><br>
 <div align="center">  
- <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" /> 
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e" />
+ <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" /> 
+  <img width="35%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e" />
 </div>
 
 
