@@ -1,9 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
 
-<img align="right" height="100%" width=35% src=https://raw.githubusercontent.com/gist/canhanga3d/bc08bf31ef8e761dda50c4a2e372dbf4/raw/83a91b2a1fec26b80a042b9861a185e93d9f336d/card.svg/>
+<img align="right" height="720px" width=35% src=https://raw.githubusercontent.com/gist/canhanga3d/bc08bf31ef8e761dda50c4a2e372dbf4/raw/83a91b2a1fec26b80a042b9861a185e93d9f336d/card.svg/>
 
-<div widht=30%>
+<div widht=40%>
   
 <h1 align="center" >Hello<span style='font-size:100px;'> &#9995;</span>
   
@@ -47,8 +47,8 @@
   </div>
 <br><br><br><br><br><br>
 <div align="center">  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e" />
+ <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" /> 
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e" />
 </div>
 
 
