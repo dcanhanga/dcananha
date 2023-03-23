@@ -5,6 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=00C6AB&center=true&vCenter=true&width=500&height=80&lines=My+name+is+Domingos+Canhanga;I'm+from+Angola;I'+m+Junior+front+end+web+developer;Be+Welcome!+&#9995;" alt="Typing SVG" /></a>
   
 </h1>
+
+<img  align="left" src=https://raw.githubusercontent.com/gist/canhanga3d/bc08bf31ef8e761dda50c4a2e372dbf4/raw/83a91b2a1fec26b80a042b9861a185e93d9f336d/card.svg/><br><br>
   
 <h2  align="center">Main skills:<br><br>
   
