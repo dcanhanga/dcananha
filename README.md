@@ -1,9 +1,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
 
-<img align="right" height="200px" width=100% src=https://raw.githubusercontent.com/gist/canhanga3d/bc08bf31ef8e761dda50c4a2e372dbf4/raw/83a91b2a1fec26b80a042b9861a185e93d9f336d/card.svg/>
+<img align="right" height="580em"  src=https://raw.githubusercontent.com/gist/canhanga3d/bc08bf31ef8e761dda50c4a2e372dbf4/raw/83a91b2a1fec26b80a042b9861a185e93d9f336d/card.svg/>
 
-<div widht=100%>
   
 <h1 align="center" >Hello<span style='font-size:100px;'> &#9995;</span>
   
@@ -44,7 +43,7 @@
  <img align="center" src="https://img.shields.io/badge/-domingoscanhanga-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-  </div>
+
 <br><br><br><br><br><br>
 <div align="center">  
  <img align="left" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" /> 
