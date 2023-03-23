@@ -49,7 +49,6 @@
 
 <br><br>
 
-<img  align="left" src=https://raw.githubusercontent.com/gist/canhanga3d/bc08bf31ef8e761dda50c4a2e372dbf4/raw/83a91b2a1fec26b80a042b9861a185e93d9f336d/card.svg/><br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
 
