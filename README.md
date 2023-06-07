@@ -33,8 +33,7 @@
     
     
 <br><br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=canhanga3d&bg_color=17181e&color=0af5ce&line=00c6ab&point=44475a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canhanga3d&bg_color=000000&color=05fabd&line=0011ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br><br>
 
 <p align="center">
