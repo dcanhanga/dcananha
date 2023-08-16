@@ -1,53 +1,63 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
 
-<h1 align="center" ><span style='font-size:30px; color:#00C6AB;'>Hello &#9995;</span>
+![Developer in pixel art](https://camo.githubusercontent.com/deb3dfb62bf6c11cdb41b1a4ddf18cd2f73fc01b2b05b6f17955ca6b4e31cb5a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f32326232323238373630323532332e356462643239303831353631642e676966)
+
+<h1 align="center" >
+<br/><br/>
+<span style='font-size:30px; color:#00C6AB;'>Hello &#9995;</span>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=00C6AB&center=true&vCenter=true&width=500&height=80&lines=My+name+is+Domingos+Canhanga;I'm+from+Angola;I'+m+Junior+front+end+web+developer;Be+Welcome!+&#9995;" alt="Typing SVG" /></a>
   
 </h1>
-
-<img  align="left" src=https://raw.githubusercontent.com/gist/canhanga3d/bc08bf31ef8e761dda50c4a2e372dbf4/raw/83a91b2a1fec26b80a042b9861a185e93d9f336d/card.svg/><br><br>
-  
-<h2  align="center">Main skills:<br><br>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo">
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap logo"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo">
-<img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&logoColor=orange" alt="Git logo"> <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub&logoColor=white" alt="github logo">
-  
-  
-  </h2><br>
-  
-<h2 align="center">Studying in this moment:<br><br>
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo">
-  
-</h2><br>
-  
-<h2  align="center">Contact:<br><br>
+  <h2  align="center">Contact:<br><br>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canhanga3d) [![InstaGram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canhanga3d)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/canhanga3d)
 <br><br>
 </h2><br> 
-    
-    
-<br><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canhanga3d&bg_color=000000&color=05fabd&line=0011ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br><br>
 
+<div align="center">
+<code>
+<img height="160em" align="center"   src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" > 
+</code>
+  <code>
+   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e"> 
+  </code>
+ 
+</div>
+
+<br />
+
+<h2 align="center">Technologies</h2>
+<br>
+<p align="center">
+
+  <div align="center">
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" title="HTML"></code>
+<code><img height="40" src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" title="CSS"></code>
+<code><img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" title="JAVASCRIPT"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
+<code><img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code>
+<code><img height="40" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg" title="TAILWINDCSS"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" title="VITE"></code>
+<code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="GIT"></code>
+
+  </div>
+
+  </p>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canhanga3d&bg_color=000000&color=05fabd&line=0011ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=canhanga3d&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div  align="center">
 
- <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" />
-
-   <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e" />
-
-<br><br>
-
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
 
