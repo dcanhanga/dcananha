@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
 
-![Developer in pixel art](https://camo.githubusercontent.com/deb3dfb62bf6c11cdb41b1a4ddf18cd2f73fc01b2b05b6f17955ca6b4e31cb5a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f32326232323238373630323532332e356462643239303831353631642e676966)
-
 <h1 align="center" >
 <br/><br/>
 <span style='font-size:30px; color:#00C6AB;'>Hello &#9995;</span>
@@ -17,12 +15,10 @@
 </h2><br> 
 
 <div align="center">
-<code>
+
 <img height="160em" align="center"   src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" > 
-</code>
-  <code>
    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e"> 
-  </code>
+
  
 </div>
 
@@ -46,20 +42,9 @@
 
   </p>
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canhanga3d&bg_color=000000&color=05fabd&line=0011ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=canhanga3d&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
-
-
- 
