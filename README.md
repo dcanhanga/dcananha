@@ -9,15 +9,14 @@
 </h1>
   <h2  align="center">Contact:<br><br>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canhanga3d) [![InstaGram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canhanga3d)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/canhanga3d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dcanhanga)
 <br><br>
 </h2><br> 
 
 <div align="center">
 
-<img height="160em" align="center"   src="https://github-readme-stats.vercel.app/api?username=canhanga3d&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" > 
-   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhanga3d&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e"> 
+<img height="160em" align="center"   src="https://github-readme-stats.vercel.app/api?username=dcanhanga&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" > 
+   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcanhanga&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e"> 
 
  
 </div>
@@ -42,7 +41,7 @@
 
   </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=canhanga3d&bg_color=000000&color=05fabd&line=0011ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dcanhanga&bg_color=000000&color=05fabd&line=0011ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
   
