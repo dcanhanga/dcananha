@@ -1,49 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
+<div style="margin-top:50px"></div>
 
-<h1 align="center" >
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<div style="margin-bottom:100px"></div>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Domingos Canhanga</h1>
+<h3>Fullstack developer passionate about JavaScript and TypeScript. With experience in front-end, back-end, and mobile development, I'm always seeking new challenges to enhance my skills and deliver innovative solutions. Let's work together to create something amazing?</h3>
+<h3 align="center"></h3>
 <br/><br/>
-<span style='font-size:30px; color:#00C6AB;'>Hello &#9995;</span>
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=00C6AB&center=true&vCenter=true&width=500&height=80&lines=My+name+is+Domingos+Canhanga;I'm+from+Angola;I'+m+Junior+front+end+web+developer;Be+Welcome!+&#9995;" alt="Typing SVG" /></a>
-  
-</h1>
-  <h2  align="center">Contact:<br><br>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dcanhanga)
-<br><br>
-</h2><br> 
 
-<div align="center">
-
-<img height="160em" align="center"   src="https://github-readme-stats.vercel.app/api?username=dcanhanga&show_icons=true&count_private=true&hide_border=true&title_color=00c6ab&icon_color=00c6ab&text_color=c9d1d9&bg_color=17181e" alt="Domingos Canhanga github stats" > 
-   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcanhanga&layout=compact&hide_border=true&title_color=00c6ab&text_color=00c6ab&bg_color=17181e"> 
-
- 
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies
+<table align="center"><tr><td valign="top" width="33%">
+ <div style="display: inline_block"><br>
+  <img align="center" alt="html image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css3 image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="typescript image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="react image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="react native image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="nodejs image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="fastify image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+  <img align="center" alt="express image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+   <img align="center" alt="jest image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
 
-<br />
 
-<h2 align="center">Technologies</h2>
-<br>
+</td></tr></table>
+<br/><br/>
+
+# 📊 GitHub Stats
+
 <p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcanhanga&theme=radical" />
+</p>
+<br/><br/>
 
-  <div align="center">
-<img height="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" title="HTML">
-<img height="40" src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" title="CSS"></code>
-<img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" title="JAVASCRIPT">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT">
-<img height="40" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT">
-<img height="40" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg" title="TAILWINDCSS">
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" title="VITE"></code>
-<img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="GIT">
+# 📫 Connect With Me
 
-  </div>
+<div align="center">
+<a href="https://www.linkedin.com/in/dcanhanga/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br/><br/>
 
-  </p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dcanhanga&bg_color=000000&color=05fabd&line=0011ff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6ab&height=120&section=header"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcanhanga&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dcanhanga&theme=radical)
